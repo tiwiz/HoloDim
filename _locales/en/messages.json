@@ -1,0 +1,49 @@
+{
+	"extName":{
+		"message":"Holo Dim"
+	},
+
+	"alertText":{
+		"message":"Data copied to clipboard"
+	},
+
+	"popupTitle":{
+		"message":"Browser dimensions"
+	},
+
+	"labelWidth":{
+		"message":"Width"
+	},
+
+	"labelHeight":{
+		"message":"Height"
+	},
+
+	"optionsTitle":{
+		"message":"Options"
+	},
+
+	"wannaBeNotified":{
+		"message":"Show a notification when data gets copied to the clipboard"
+	},
+
+	"dismissAutomatically":{
+		"message":"Automatically dismiss notification"
+	},
+
+	"dismissAfter":{
+		"message":"Dismiss after"
+	},
+
+	"dismissAfterPartTwo":{
+		"message":" seconds"
+	},
+
+	"resetToDefaults":{
+		"message":"Restore default values"
+	},
+
+	"aboutTheAuthor":{
+		"message":"About the author"
+	}
+}

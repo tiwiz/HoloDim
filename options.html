@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+	<link rel="stylesheet" type="text/css" href="css/holo-base-elements.css" />
+	<link rel="stylesheet" type="text/css" href="css/holo-light-elements.css" />
+	<link rel="stylesheet" type="text/css" href="css/holo-base-widgets.css" />
+	<link rel="stylesheet" type="text/css" href="css/holo-light-widgets.css" />
+	<script type="text/javascript" src="js/holo-touch.js"></script>
+	<script src="js/jquery.min.js"></script>
+	<script src="js/options.js"></script>
+	<script src="js/storage.js"></script>
+	<title>Holo Dim</title>
+</head>
+
+<body>
+<header class="holo-actionBar"><span id="titleOptions"></span><button style="float:right;"><span id="btnReset"></span></button></header>
+<div>
+	<table>
+		<tr><td><input type="checkbox" id="chkWannaBeNotified" /></td><td><label for="chkWannaBeNotified" id="lblWannaBeNotified"></label></td></tr>
+	</table>
+</div>
+<div>
+	<table>
+		<tr><td><input type="checkbox" id="chkDismissAutomatically" /></td><td><label for="chkDismissAutomatically" id="lblDismissAutomatically"></label></td></tr>
+	</table>
+<div>
+<div>
+	<label for="dismissAfterSeconds" id="lblDismissAfterSeconds"></label>
+	<select name="dismissAfterSeconds" id="dismissAfterSeconds">
+			<option>1</option>
+			<option>2</option>
+			<option>3</option>
+			<option>4</option>
+			<option>5</option>
+			<option>6</option>
+			<option>7</option>
+			<option>8</option>
+			<option>9</option>
+			<option>10</option>
+		</select>
+		<span id="lblDismissAfterSecondsPartTwo"></span>
+</div>
+<div class="footer" style="width: 100%; display: block; margin-left: auto; margin-right: auto; text-align: center; position:fixed; bottom: 0">
+	<button><span id="aboutTheAuthor"></span></button>
+</div>
+</body>
+</html>

@@ -1,0 +1,68 @@
+@font-face {
+    font-family: 'RobotoRegular';
+    src: url('Roboto-Regular-webfont.eot');
+    src: url('Roboto-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Roboto-Regular-webfont.woff') format('woff'),
+         url('Roboto-Regular-webfont.ttf') format('truetype'),
+         url('Roboto-Regular-webfont.svg#RobotoRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'RobotoBold';
+    src: url('Roboto-Bold-webfont.eot');
+    src: url('Roboto-Bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Roboto-Bold-webfont.woff') format('woff'),
+         url('Roboto-Bold-webfont.ttf') format('truetype'),
+         url('Roboto-Bold-webfont.svg#RobotoBold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+hr{
+	background-color: #33B5E5;
+	height: 2px;
+	border: 0;
+}
+
+h1{
+	font-family: 'RobotoRegular',"Trebuchet MS", Helvetica, sans-serif;
+	font-size: 1em;
+	color: #33B5E5;
+}
+
+body {
+    overflow-x: hidden;
+    min-width:375px;
+    background-color:rgab(100,100,100,1);
+    font-family:'RobotoRegular';
+}
+
+.data{
+    font-family: 'RobotoBold',"Lucida Console", Monaco, monospace;
+}
+
+.button{
+    float:right;
+    vertical-align:middle;
+    height: 32px;
+    margin-top: -10px;
+}
+
+.button:hover{
+    background-color: rgba(51,181,229,0.4);
+}
+
+.image{
+    width:32px;
+    height:auto;
+}
+
+.line{
+    font-family: 'RobotoRegular',"Trebuchet MS", Helvetica, sans-serif;
+    margin-top: 16px;
+    margin-bottom: 30px;
+}

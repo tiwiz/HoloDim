@@ -1,0 +1,49 @@
+{
+	"extName":{
+		"message":"Holo Dim"
+	},
+
+	"alertText":{
+		"message":"Dati copiati negli appunti"
+	},
+
+	"popupTitle":{
+		"message":"Dimensioni del browser"
+	},
+
+	"labelWidth":{
+		"message":"Larghezza"
+	},
+
+	"labelHeight":{
+		"message":"Altezza"
+	},
+
+	"optionsTitle":{
+		"message":"Opzioni"
+	},
+
+	"wannaBeNotified":{
+		"message":"Mostra una notifica quando i dati vengono copiati negli appunti"
+	},
+
+	"dismissAutomatically":{
+		"message":"Cancella la notifica automaticamente"
+	},
+
+	"dismissAfter":{
+		"message":"Rimuovi dopo"
+	},
+
+	"dismissAfterPartTwo":{
+		"message":" secondi"
+	},
+
+	"resetToDefaults":{
+		"message":"Ripristina i valori predefiniti"
+	},
+
+	"aboutTheAuthor":{
+		"message":"Informazioni sull'autore"
+	}
+}
